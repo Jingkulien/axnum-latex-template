@@ -1,0 +1,1 @@
+# axnum-latex-template
